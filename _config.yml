@@ -1,7 +1,7 @@
 theme: jekyll-theme-midnight
 title: "Team TripleAJ CPT"
-description: "Frank P Leuck and Judith Sherwood Leuck reunion site and blog."
-gitorg: "https://github.com/jm1021/leuck_reunion"
+description: "TripleAJ Create Performance Task site"
+gitorg: "https://github.com/Azeem-Khan1/TripleAJv2"
 description: "Create Performance Task Site"
 google_analytics:
 remote_theme: pages-themes/midnight@v0.2.0
