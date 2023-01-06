@@ -14,11 +14,20 @@ Some relevant financial documents that we can use: S-1 Filings, Form 10K, Form 1
 [Sample S-1 Filing for Google](https://www.sec.gov/Archives/edgar/data/1288776/000119312504073639/ds1.htm)
 
 Below is an S-1 Filing for Google Inc, this document contains hundreds of pages of information that is used to valuate an IPO. We will use artificial intelligence to summarize financial documents so that it can extract broad and relevant information. We will use this extracted information to create a mini-report for investors to understand (this is mentioned in our rubric).
+
 <br>
+
 > Update 1/7/2022 - Here is a backend database for all 175 IPOs in 2022 for testing our website. Each IPO is summarized as a "Boom" or "Bust" regarding their market behavior. This database will be the backend for our first 2022 calendar. There are also graphs depicting trends for all of the IPOs in the past year. 
+
 <br>
 <br>
-<iframe src="https://docs.google.com/spreadsheets/d/1gKhYFQjJyomF50SXUh4AIenJ50s_YYuu/edit#gid=762151131" title="Backend Database for TripleAJ IPO Project"></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/1gKhYFQjJyomF50SXUh4AIenJ50s_YYuu/edit#gid=762151131" title="Backend Database for TripleAJ IPO Project" style="width: 100%; height: 700px;"></iframe>
+
+<br>
+
+> Or access the database [here](https://docs.google.com/spreadsheets/d/1gKhYFQjJyomF50SXUh4AIenJ50s_YYuu/edit#gid=762151131)
+
 
 > Update 1/8/2022 - Frontend will now begin constructing our first demo table for the year 2022. *After our demo, we will continue to develop a relevant and up to date calendar for the year 2023. 
 
