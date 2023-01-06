@@ -13,7 +13,7 @@
 }
 </style>
 
-## IPO Project
+## Triple AJ IPO Project
 
 We want to construct a calendar that can efficiently summarize and predict wether new initial public offerings in the market will be a good investment or not. We will also take Mergers and other market conditions into factor when evaluating an IPO. 
 
