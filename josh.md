@@ -15,8 +15,9 @@
 
 ## Triple AJ IPO Project
 
-We want to construct a calendar that can efficiently summarize and predict wether new initial public offerings in the market will be a good investment or not. We will also take Mergers and other market conditions into factor when evaluating an IPO. 
-
+> We want to construct a calendar that can efficiently summarize and predict wether new initial public offerings in the market will be a good investment or not. We will also take Mergers and other market conditions into factor when evaluating an IPO. 
+<br>
+<br>
 > As a frontend developer, my job is to construct the design below and create a functioning table with a good user interface. The table's objective is to lead the user to resourceful reports for each initial public offering. Our website will have a report for each upcoming IPO and also additional financial documents that help to evaluate IPOs (S-1 Filings, Balance Sheets, etc). 
 
 
@@ -29,7 +30,9 @@ We want to construct a calendar that can efficiently summarize and predict wethe
 
 > The design shows a calendar which alerts the user for upcoming investment opportunities regarding new IPOs that might be a valuable asset in the future. Our job is to construct an efficient product that can deliver exceptional research which provides useful information to a potential investor. 
 
-> As a frontend it is extremely important that the user interface is well crafted and accomplishes the job of being portrayed as an worthy investment tool. 
+> The probable method to constructing an efficient calendar would be to embed other APIs that can constantly show stock prices fluctuating no matter how volatile they are. 
+
+> My job as a frontend is extremely important to make sure that the user interface is well crafted and accomplishes the job of being portrayed as an worthy investment tool. 
 
 See more information regarding Triple AJ's IPO Valuator: [Additional Information]()
 
