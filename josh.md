@@ -34,7 +34,7 @@
 
 > My job as a frontend is extremely important to make sure that the user interface is well crafted and accomplishes the job of being portrayed as an worthy investment tool. 
 
-See more information regarding Triple AJ's IPO Valuator: [Additional Information]()
+See more information regarding Triple AJ's IPO Calendar: [Additional Information]()
 
 See current progress for our project: [LiDEO.ai]()
 
