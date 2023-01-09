@@ -16,6 +16,7 @@ Find opened issues [here](https://github.com/Azeem-Khan1/TripleAJv2/issues)
 
 ### Josh
 
+- We could provide information on upcoming IPO's and some insight into them.
 
 ### Akshat
 
