@@ -36,3 +36,5 @@
 
 See more information regarding Triple AJ's IPO Valuator: [Additional Information]()
 
+See current progress for our project: [LiDEO.ai]()
+
