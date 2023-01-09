@@ -2,6 +2,8 @@
 
 Find opened issues [here](https://github.com/Azeem-Khan1/TripleAJv2/issues)
 
+We PLAN to add AI
+
 ## Scrum Board
 
 {% include scrumBoard.md %}
